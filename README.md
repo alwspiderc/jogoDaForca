@@ -3,7 +3,7 @@ Link do repositório encontrado: https://github.com/ArthurPdaSilva/Jogo-da-forca
 ## Exemplo código Original:
 Ao ser criada uma instância da class JogoDaForca vai ser criado o jogo, necessitando que só haja uma instância dessa class, assim evitando ter mais mais de uma instancia rodando simultaneamente o tornando "mais leve".
 
-<img src="./src/projetoforca/imagens/one.PNG" 
+<img src="./src/projetoforca/one.PNG" 
 alt="Imagem 1"/>
 
 ```java
@@ -91,10 +91,10 @@ Ter certeza que a class JogoDaForca tenha apenas uma instância em todo o progra
 
 Para a aplicação do mesmo, adicionamos o atributo estático “instancia” para receber o objeto instanciado, o método construtor da classe JogoDaForca como privado para impedir a instância externa e um método getInstance para a instância da mesma, e caso já tenha sido instanciada antes, ele retorna a instância já existente. 
 
-<img src="./src/projetoforca/imagens/two.PNG" 
+<img src="./src/projetoforca/two.PNG" 
 alt="Imagem 1"/>
 
-<img src="./src/projetoforca/imagens/three.PNG" 
+<img src="./src/projetoforca/three.PNG" 
 alt="Imagem 1"/>
 
 ### JogoDaForca.java:
