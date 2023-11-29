@@ -1,3 +1,8 @@
+Membros da equipe: 
+- Ester Costa de Souza
+- Iury Xavier Assunção
+- Lucca Barbosa Nygaard
+  
 Link do repositório encontrado: https://github.com/ArthurPdaSilva/Jogo-da-forca/tree/main
 
 ## Exemplo código Original:
